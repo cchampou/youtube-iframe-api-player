@@ -1,0 +1,17 @@
+{
+  "name": "player",
+  "version": "0.0.0-dev",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": {
+    "name": "Clément CHAMPOUILLON",
+    "email": "clement@champouillon.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
